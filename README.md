@@ -1,6 +1,6 @@
 # RoomDatabaseWithMVVM
 Room database dengan mvvm sederhana.
 
-<h1>Arsitektur</h1>
+<h2>Arsitektur</h2>
 <img src="screenshot/room_architecture.png"/>
 
